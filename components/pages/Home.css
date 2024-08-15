@@ -1,0 +1,16 @@
+.head{
+    display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     /* Centers vertically */
+  height: 80vh;           /* Full viewport height */
+  text-align: center;      /* Centers text inside the element */
+  font-size: 35px;         /* Optional: Adjust the text size */
+  font-family: Arial, sans-serif;
+  position: sticky;
+  font-weight: bolder;
+  color: rgb(3, 52, 52);
+  }
+
+
+
+  
